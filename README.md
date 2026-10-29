@@ -1,6 +1,6 @@
 # Chess Agent Coursework
 
-The goal was to make an agent that would reliably beat the lecturers benchmark agents, which had increasing levels of difficulty. Mine beat all 5.
+The goal was to make an agent that would reliably beat the lecturers benchmark agents, which had increasing levels of difficulty. Mine succeeded against each.
 
 The game is a 5x5 version of chess with a slight variation of the pieces. Instead of rooks there's a "Right", which moves like a rook and a knight combined. Pawns can only promote to queens. Also each game has a 300 second clock shared between both players, so managing time turned out to be crucial and be the main area performance gains could be made.
 
